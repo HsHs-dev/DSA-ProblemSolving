@@ -12,4 +12,4 @@ The neetcode website arranges the problems into categories so the problems seque
   - [x] Two Sum <span style="color: green;">Easy</span>
   - [x] Group Anagrams <span style="color: yellow;">Medium</span>
   - [x] Top K Frequent Elements <span style="color: yellow;">Medium</span>
-  - [ ] Encode and Decode Strings <span style="color: yellow;">Medium</span>
+  - [x] Encode and Decode Strings <span style="color: yellow;">Medium</span>
