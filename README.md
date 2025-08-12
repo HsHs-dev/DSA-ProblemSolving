@@ -8,8 +8,8 @@ The neetcode website arranges the problems into categories so the problems seque
 
 - [ ] Arrays & Hashing
   - [x] Contains Duplicate 🟢 Easy
-  - [x] Valid Anagram ![Medium](https://img.shields.io/badge/-Medium-yellow)
-  - [x] Two Sum <span style="color: green;">Easy</span>
-  - [x] Group Anagrams <span style="color: yellow;">Medium</span>
-  - [x] Top K Frequent Elements <span style="color: yellow;">Medium</span>
-  - [x] Encode and Decode Strings <span style="color: yellow;">Medium</span>
+  - [x] Valid Anagram 🟢 Easy
+  - [x] Two Sum 🟢 Easy
+  - [x] Group Anagrams 🟡 Medium
+  - [x] Top K Frequent Elements 🟡 Medium
+  - [x] Encode and Decode Strings 🟡 Medium
